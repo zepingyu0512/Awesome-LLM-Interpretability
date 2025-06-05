@@ -249,6 +249,7 @@ A curated list of LLM Interpretability related material.
 * **Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning** [[arxiv 2402]](https://arxiv.org/abs/2402.18344)
 * **Iteration Head: A Mechanistic Study of Chain-of-Thought** [[arxiv 2406]](https://arxiv.org/abs/2406.02128)
 * **From Sparse Dependence to Sparse Attention: Unveiling How Chain-of-Thought Enhances Transformer Sample Efficiency** [[arxiv 2410]](https://arxiv.org/abs/2410.05459)
+* **Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models** [[arxiv 2502]](https://arxiv.org/pdf/2502.10835)
 
 ##### Function
 
@@ -278,6 +279,8 @@ A curated list of LLM Interpretability related material.
 * **Understanding Addition in Transformers** [[ICLR 2024]](https://openreview.net/forum?id=rIx1YXVWZb)
 * **Increasing Trust in Language Models through the Reuse of Verified Circuits** [[arxiv 2402]](http://arxiv.org/abs/2402.02619)
 * **Pre-trained Large Language Models Use Fourier Features to Compute Addition** [[arxiv 2406]](https://arxiv.org/abs/2406.03445)
+* **Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis** [[EMNLP 2024]](https://arxiv.org/pdf/2409.14144)
+
 
 ##### In-context Learning
 
@@ -310,7 +313,8 @@ A curated list of LLM Interpretability related material.
 * **Mechanisms of non-factual hallucinations in language models** [[arxiv 2403]](https://arxiv.org/abs/2403.18167)
 * **Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models** [[arxiv 2403]](arXiv:2403.19521)
 * **Locating and Editing Factual Associations in Mamba** [[arxiv 2404]](arXiv:2404.03646)
-* **Probing Language Models on Their Knowledge Source** [[arxiv 2410]](https://arxiv.org/abs/2410.05817}
+* **Neuron-Level Knowledge Attribution in Large Language Models** [[EMNLP 2024]](https://arxiv.org/pdf/2312.12141)
+* **Probing Language Models on Their Knowledge Source** [[arxiv 2410]](https://arxiv.org/abs/2410.05817)
 
 ##### Multilingual/Crosslingual
 
@@ -333,6 +337,7 @@ A curated list of LLM Interpretability related material.
 * **Towards Interpreting Visual Information Processing in Vision-Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.07149)
 * **Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.12662)
 * **Pixology: Probing the Linguistic and Visual Capabilities of Pixel-based Language Models** [[arxiv 2410]](https://arxiv.org/abs/2410.12011)
+* **Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering** [[arxiv 2411]](https://arxiv.org/pdf/2411.10950)
 
 #### Component
 
